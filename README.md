@@ -2,7 +2,7 @@
 
 Companion catalog and inference implementation for **Hierarchical Image-based Selection of Elliptical Galaxy Candidates with ACC-ViT-2**.
 
-ACC-ViT-2 uses a two-stage image classifier to select galaxies with smooth, round apparent morphologies from SDSS DR17 color images. Stage 1 separates ELL, CIG+EDG, and SPI. Stage 2 separates the ELL candidates into COM and INB; COM objects form the final candidate sample.
+ACC-ViT-2 uses a two-stage image classifier to select galaxies with smooth, round apparent morphologies from SDSS DR17 images. Stage 1 separates ELL, CIG+EDG, and SPI. Stage 2 separates the ELL candidates into COM and INB; COM objects form the final candidate sample.
 
 ## Contents
 
